@@ -1,8 +1,10 @@
-# Food Explorer Front-end 🥗🍽
+# Food Explorer 🥗🍽
 
-Projeto final do Curso Explorer da RocketSeat, neste desafio, desenvolvi o food explorer, um menu interativo para um restaurante fictício, que funciona com layout mobile, tablet e desktop.
+Projeto final do Curso Explorer da RocketSeat
 
 ## Sobre:
+
+OBS: A aplicação está com milhas extras, mas não foi finalizado 100% o meu projeto, mas foi concluido 100% os topicos pedidos no explorer, pois estou estudando sobre gateway de pagamentos para fazer essa aplicação ser util de alguma forma, no repositorio de back-end tem as rotas para pagamentos reais, criação de subcontas (pizzarias parceiras, clientes, afiliados, geração de qrcode, pix, pagamento via cartão de credito, mas pelo prazo para entrega do projeto final, não consegui implementar isso a tempo, mas irei fazer o projeto melhorado para desenvolvimento proprio, as rotas no back-end são /a_invoices, /a_payments, as rotas iniciando com "/a_" no back-end são de pagamentos e rotas mais complexas que estou estudando e não implementei nesse projeto, mas estou finalizando para produção)
 
 A aplicação é um site completo que vai desde a visualização de um prato até o pagamento do mesmo.
 
@@ -14,55 +16,23 @@ Tanto o admin quanto o usuário poderão buscar os pratos por nome e/ou ingredie
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### Instruções de uso
-
-##### - Pré-requisitos
-
-`Certifique-se de ter o npm instalado em sua máquina. Você pode verificar a versão do npm executando o seguinte comando no terminal:`
-
-      npm -v
-
-##### - Instalação
-
-`Clone este repositório para sua máquina local:`
-
-      git clone https://github.com/renyzeraa/foodexplorer-frontend.git
-
-`Navegue até o diretório do projeto:`
-
-      cd /web/src
-
-`Instale as dependências do projeto usando o npm:`
-
-      npm install
-
-##### - Executando o Projeto
-
-`Para iniciar o projeto, execute o seguinte comando:`
-
-      npm run dev
-
-_`Isso irá iniciar o servidor de desenvolvimento do FRONT-END, e criará um link para rodar em sua maquina local, copie o link que ira gerar no terminal, abra um navegador e cole o link. Agora você pode ver o projeto em execução!`_
-
-`No arquivo *api.js* tem o base url da api que esta utilizando atualmente`
-
-_`Login Admin: renan@gmail.com`_
-_`Senha : renan123`_
-
 ### Deploy do Projeto 🚀
 
-<a href='https://foodexplorer-eight.vercel.app/' target='_blank'>foodexplorer-eight.vercel.app/</a>
+<a href='https://foodexplorer-eight.vercel.app/' target='_blank'>FoodExplorer 🥙</a>
 
 ### Contato
 
-<img align="left" src="https://www.github.com/renyzeraa.png?size=150">
+<img align="left" src="https://www.github.com/mullerhub.png?size=150">
 
-### [**Renan Leandro da Silva**](https://github.com/renyzeraa)
+### [**Murilo da Silva Muller**](https://github.com/mullerhub)
 
-🛠 `FullStack` Developer Jr. <br>
-💼 [**IPM Sistemas**](https://www.ipm.com/) <br>
-📍 Santa Catarina - Brazil
+🛠 `Back-end` Developer Jr. <br>
+💼 Open to work! <br>
+📍 Rio Grande do Sul - Brazil 
 
-<a href="https://www.linkedin.com/in/renyzeraa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;<a href="mailto:renansilvaytb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" title="renan_s#7826" alt="Discord Badge" height="25"></a>&nbsp;<a href="https://www.github.com/renyzeraa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
+<a href="https://www.linkedin.com/in/mullerhub" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;<a href="mailto:murilomuller@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" title="murilomuller" alt="Discord Badge" height="25"></a>&nbsp;<a href="https://www.github.com/mullerhub" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
 
 <br clear="left"/>
+
+
+<!-- Teste -->
