@@ -11,7 +11,7 @@ import { api } from '../../services/api'
 import { shoppingCart } from '../../hooks/shoppingCart'
 import { getReactToastify, oTiposToastify } from '../../methods/toastify'
 
-export function Details({}) {
+export function Details({ }) {
   const params = useParams()
   const { user } = useAuth()
   const admin = user.isAdmin
@@ -49,6 +49,7 @@ export function Details({}) {
         handlePlate(response.data)
         setLoading(false)
       } catch (error) {
+        console.log("erro ===>>", error)
         setLoading(false)
 
         getReactToastify(
